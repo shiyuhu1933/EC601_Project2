@@ -49,7 +49,7 @@ In the Cloud Console, click the email address for the service account that you c
 2.Get a JSON key file and uplpoad it to the google dirve if using Google Colab.
 
 ```Python
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "JSon file Path"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "JSon_file_Path"
 ```
 
 The Sentiment of Musk's tweets then could be analyzed:
