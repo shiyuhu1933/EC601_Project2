@@ -25,7 +25,7 @@ First, to get the permissions to call from Twitter, regist a Twitter account as 
 API_Key, API_Key_Secret, Access_token, Access_token_secret. For example, tweets from Elon Reeve Musk will be retrieved by passing the
 username of the account you want to download.
 
-
+![image](https://github.com/shiyuhu1933/EC_601_Project1/blob/main/Deeper_LSTM_Q_Norm.png) 
 
 
 
