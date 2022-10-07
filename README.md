@@ -45,7 +45,8 @@ To begin with, regist a account for Google Cloud, and create a project and enabl
 Next, get the configuration of keys for the project with the following steps:
 In the Cloud Console, click the email address for the service account that you created.
 1.Click and Add Keys.
-3.Get a JSON key file and uplpoad it to the google dirve if using Google Colab.
+
+2.Get a JSON key file and uplpoad it to the google dirve if using Google Colab.
 
 ```Python
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "JSon file Path"
